@@ -1,2 +1,2 @@
 # AzureD365
-Azure functions for D365 GIT 2
+Azure functions for D365 GIT 3
